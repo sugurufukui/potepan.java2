@@ -1,0 +1,15 @@
+table {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+}
+
+input {
+    width: 70px;
+    height: 70px;
+}
+
+.display {
+    width: 250px;
+    text-align: right;
+}
